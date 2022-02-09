@@ -4,4 +4,4 @@ A place to store your stories and your creativity. You could also store Waffles.
 ## Discovery
  - There are no trending entries yet...
 ## Entry list
- - No entries yet, Please check later
+ - [The first ever entry](https://minecraftpublisher.github.io/WaffleHub/Waffles/waffle-1.html)
