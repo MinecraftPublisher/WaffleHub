@@ -5,3 +5,8 @@ A place to store your stories and your creativity. You could also store Waffles.
 
 ## Entry list
  - [The first ever entry](https://minecraftpublisher.github.io/WaffleHub/Waffles/waffle-1.html)
+
+<script>
+ // Cannot run JS
+ console.log("Can run JS");
+</script>
